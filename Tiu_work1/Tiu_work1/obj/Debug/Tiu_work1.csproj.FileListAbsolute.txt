@@ -1,0 +1,15 @@
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\Tiu_work1.exe.config
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\Tiu_work1.exe
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\Tiu_work1.pdb
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\EntityFramework.dll
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\EntityFramework.xml
+D:\vs2015mywork\Tiu_work1\Tiu_work1\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.csprojResolveAssemblyReference.cache
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.Properties.Resources.resources
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.csproj.GenerateResource.Cache
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.exe
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.pdb
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.Form1.resources
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.Form2.resources
+D:\vs2015mywork\Tiu_work1\Tiu_work1\obj\Debug\Tiu_work1.Form3.resources
