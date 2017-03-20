@@ -16,6 +16,5 @@ namespace Tiu_work1
         public DbSet<Logs> Logs { set; get; }   //复写
         public DbSet<This_day> This_days { set; get; }
         public DbSet<This_week> This_weeks { set; get; }
-
     }
 }

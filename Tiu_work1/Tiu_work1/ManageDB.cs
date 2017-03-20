@@ -19,7 +19,7 @@ namespace Tiu_work1
     public class This_week {
         [Key]
         public int id { set; get; }
-        public string week_id { set; get; }
+        public int week_id { set; get; }
         public string Date_time { set; get; }
         public string Log { set; get; }
     }
